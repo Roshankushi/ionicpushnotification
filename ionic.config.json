@@ -1,6 +1,8 @@
 {
   "name": "assignmentionic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "cae96a48"
 }
